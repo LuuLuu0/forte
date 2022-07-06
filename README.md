@@ -1,4 +1,4 @@
-# Forte
+# forte
 
 ## Description
 ![homepage](https://user-images.githubusercontent.com/20469293/177424751-1430606b-8ec2-4179-8669-a909670448c8.gif)
